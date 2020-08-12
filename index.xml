@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sampath Dechu - Home on Sampath Dechu</title>
+    <title>About on Sampath Dechu</title>
     <link>https://sampathdechu.github.io/</link>
-    <description>Recent content in Sampath Dechu - Home on Sampath Dechu</description>
+    <description>Recent content in About on Sampath Dechu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sampathdechu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://sampathdechu.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sampathdechu.github.io/about/</guid>
+      <description>Sampath Dechu About my passion and expertise: I am passionate about building technology solutions for boosting employee productivity in enterprises. My expertise lies in design, build and deployment of data-driven computational software solutions and platforms.
+About my technical experience: I have developed and delivered products that included advanced computational software methods such as: combinatorial search, numerical optimization, graph theory, data mining, statistical inference, natural language procesing, machine learning, deep learning. I have experience of developing cloud-native fullstack applications using MEAN stack in microservice architecture.</description>
+    </item>
     
     <item>
       <title>Another Note on A blogdown Tutorial</title>
@@ -52,12 +62,12 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
-      <title>About Hugo XMin</title>
-      <link>https://sampathdechu.github.io/about/</link>
+      <title></title>
+      <link>https://sampathdechu.github.io/projects/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sampathdechu.github.io/about/</guid>
-      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+      <guid>https://sampathdechu.github.io/projects/test/</guid>
+      <description>Another page in projects </description>
     </item>
     
   </channel>

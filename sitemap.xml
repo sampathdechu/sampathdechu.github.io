@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sampathdechu.github.io/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sampathdechu.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sampathdechu.github.io/note/2017/06/14/another-note/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://sampathdechu.github.io/note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sampathdechu.github.io/</loc>
     <lastmod>2017-06-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,7 +93,13 @@
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/about/</loc>
+    <loc>https://sampathdechu.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sampathdechu.github.io/projects/test/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
