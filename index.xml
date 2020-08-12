@@ -12,13 +12,21 @@
     
     
     <item>
-      <title>About</title>
-      <link>https://sampathdechu.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Project1</title>
+      <link>https://sampathdechu.github.io/projects/project1/</link>
+      <pubDate>Tue, 11 Aug 2020 11:08:58 +0530</pubDate>
       
-      <guid>https://sampathdechu.github.io/about/</guid>
-      <description>Sampath Dechu About my passion and expertise: I am passionate about building technology solutions for boosting employee productivity in enterprises. My expertise lies in design, build and deployment of data-driven computational software solutions and platforms.
-About my technical experience: I have developed and delivered products that included advanced computational software methods such as: combinatorial search, numerical optimization, graph theory, data mining, statistical inference, natural language procesing, machine learning, deep learning. I have experience of developing cloud-native fullstack applications using MEAN stack in microservice architecture.</description>
+      <guid>https://sampathdechu.github.io/projects/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project2</title>
+      <link>https://sampathdechu.github.io/projects/project2/</link>
+      <pubDate>Tue, 11 Aug 2020 11:08:58 +0530</pubDate>
+      
+      <guid>https://sampathdechu.github.io/projects/project2/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -41,33 +49,78 @@ About my technical experience: I have developed and delivered products that incl
     </item>
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://sampathdechu.github.io/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://sampathdechu.github.io/post/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sampathdechu.github.io/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
-1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>https://sampathdechu.github.io/post/2015/07/23/lorem-ipsum/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sampathdechu.github.io/post/2015/07/23/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
+      <guid>https://sampathdechu.github.io/post/1/01/01/</guid>
+      <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://sampathdechu.github.io/projects/test/</link>
+      <link>https://sampathdechu.github.io/post/1/01/01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sampathdechu.github.io/projects/test/</guid>
-      <description>Another page in projects </description>
+      <guid>https://sampathdechu.github.io/post/1/01/01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sampathdechu.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sampathdechu.github.io/contact/</guid>
+      <description>Sampath Dechu Bangalore, KA, India. Ph # 9739839457 </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://sampathdechu.github.io/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sampathdechu.github.io/education/</guid>
+      <description>
+   Year Degree Specialization University Location     2001-2003 Master of Science Computer Engineering Iowa State University Ames, IA, USA   1997-2001 B.Tech Electronics and Communication Engineering J.N.T.U Hyderabad, Telangana, India    </description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://sampathdechu.github.io/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sampathdechu.github.io/experience/</guid>
+      <description>2014 - Now Research Manager IBM Research Bangalore, KA India   At IBM research in Bangalore, I am responsible for research efforts in the areas of application of AI for business process automation and optimization. I lead the team of researchers, data scientists and software engineers to infuse AI into IBM offerings in Automation space. We have 10 published papers in top rated peer-reviewed conferences and journals.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>https://sampathdechu.github.io/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sampathdechu.github.io/papers/</guid>
+      <description>AI for Business process automation and optimization  Chandresh Kumar Maurya, Neelamadhav Gantayat, Sampath Dechu, Tomás Horváth: Online Similarity Learning with Feedback for Invoice Line Item Matching, Intelligent Process Automation Workshop, AAAI 2020. Tanmayee Narendra, Prerna Agarwal, Monika Gupta, Sampath Dechu: Counterfactual Reasoning for Process Optimization Using Structural Causal Models, BPM Forum 2019. Neelamadhav Gantayat, Giriprasad Sridhara, Anush Sankaran, Sampath Dechu, Senthil Mani, Gargi Banerjee Dasgupta: *Towards Creating Business Process Models from Images, ICSOC 2018.</description>
+    </item>
+    
+    <item>
+      <title>Patents  </title>
+      <link>https://sampathdechu.github.io/patents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sampathdechu.github.io/patents/</guid>
+      <description>
+   # id title status     1 US-10367645-B2 Proof-of-work for smart contracts on a blockchain Granted   2 US-8515725-B2 Characterization of nonlinear cell macro model for timing analysis Granted   3 US-10396375-B2 System and method for condition monitoring of redox flow batteries using data analytics Granted   4 US-9980099-B2 Indoor location detection using ceiling patterns Granted   5 US-10664522-B2 Interactive voice based assistant for object assistance Granted   6 US-10691764-B2 Search engine optimization techniques Granted   7 US-10552426-B2 Adaptive conversational disambiguation system Granted   8 US-9853690-B1 Generating high resolution inferences in electrical networks Granted   9 US-10320190-B2 Load profile selection in adaptive dynamic islanding using batteries Granted   10 US-2018130130-A1 Autonomous peer-to-peer energy networks operating on a blockchain Application Pending   11 US-2020143299-A1 Automatically Detecting Inconsistencies Between a Business Process Model and a Corresponding Tutorial Video Application Pending   12 US-2020183961-A1 External action execution with conversational agent Application Pending   13 US-2020175114-A1 Embedding Natural Language Context in Structured Documents Using Document Anatomy Application Pending   14 US-2019180639-A1 Question generation for learning session Application Pending   15 US-2019163272-A1 Simulating tactile information for haptic technology Application Pending   16 US-2019138646-A1 Systematic Browsing of Automated Conversation Exchange Program Knowledge Bases Application Pending    </description>
+    </item>
+    
+    <item>
+      <title>Sampath Dechu</title>
+      <link>https://sampathdechu.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sampathdechu.github.io/about/</guid>
+      <description>About my passion and expertise: I am passionate about building technology solutions for boosting employee productivity in enterprises. My expertise lies in design, build and deployment of data-driven computational software solutions and platforms.
+About my technical experience: I have developed and delivered products that included advanced computational software methods such as: combinatorial search, numerical optimization, graph theory, data mining, statistical inference, natural language procesing, machine learning, deep learning. I have experience of developing cloud-native fullstack applications using MEAN stack in microservice architecture.</description>
     </item>
     
   </channel>

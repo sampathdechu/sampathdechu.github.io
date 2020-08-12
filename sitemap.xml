@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sampathdechu.github.io/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <loc>https://sampathdechu.github.io/projects/</loc>
+    <lastmod>2020-08-11T11:08:58+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/about/</loc>
+    <loc>https://sampathdechu.github.io/projects/project1/</loc>
+    <lastmod>2020-08-11T11:08:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sampathdechu.github.io/projects/project2/</loc>
+    <lastmod>2020-08-11T11:08:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sampathdechu.github.io/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,58 +59,39 @@
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/post/2016/02/14/a-plain-markdown-post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>https://sampathdechu.github.io/post/1/01/01/</loc>
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/tags/blogdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>https://sampathdechu.github.io/post/1/01/01/</loc>
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/categories/hugo/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>https://sampathdechu.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/tags/markdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>https://sampathdechu.github.io/education/</loc>
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/tags/mathjax/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>https://sampathdechu.github.io/experience/</loc>
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/tags/pandoc/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>https://sampathdechu.github.io/papers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sampathdechu.github.io/patents/</loc>
   </url>
   
   <url>
     <loc>https://sampathdechu.github.io/post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sampathdechu.github.io/tags/rstudio/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sampathdechu.github.io/post/2015/07/23/lorem-ipsum/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sampathdechu.github.io/projects/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sampathdechu.github.io/projects/test/</loc>
-    <priority>0</priority>
+    <loc>https://sampathdechu.github.io/about/</loc>
   </url>
   
 </urlset>
