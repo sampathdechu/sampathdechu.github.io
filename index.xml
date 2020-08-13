@@ -36,7 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sampathdechu.github.io/experience/</guid>
-      <description>2014 - Now Research Manager IBM Research Bangalore, KA India   At IBM research in Bangalore, I am responsible for research efforts in the areas of application of AI for business process automation and optimization. I lead the team of researchers, data scientists and software engineers to infuse AI into IBM offerings in Automation space. We have 10 published papers in top rated peer-reviewed conferences and journals.</description>
+      <description>2014 - Now AI Solutions Architect IBM Research Bangalore, KA India   At IBM research in Bangalore, I am responsible for architecting AI solutions using state of the art methods from academia and technology stack from opensource or PaaS offerings in the areas of business process automation and optimization. I lead the team of researchers, data scientists and software engineers. My current focus areas are to infuse AI into IBM offerings in Automation space.</description>
     </item>
     
     <item>
@@ -64,8 +64,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sampathdechu.github.io/about/</guid>
-      <description>About my passion and expertise: I am passionate about building technology solutions for boosting employee productivity in enterprises. My expertise lies in design, build and deployment of data-driven computational software solutions and platforms.
-About my technical experience: I have developed and delivered products that included advanced computational software methods such as: combinatorial search, numerical optimization, graph theory, data mining, statistical inference, natural language procesing, machine learning, deep learning. I have experience of developing cloud-native fullstack applications using MEAN stack in microservice architecture.</description>
+      <description>About my passion and expertise: I am passionate about architecting technology solutions for automation and optimization of enterprise operations. My expertise lies in design, build and deployment of data-driven cloud-native computational software solutions and platforms.
+About my approach: My approach involves:
+ Understanding business requirements and personas Discover the opportunities for technology intervention Exploration of technology stack (largely open source or PaaS) Evaluation of applicability of state of the art computational methods from academia Minimum viable product design &amp;amp; continuous validation with users.</description>
     </item>
     
   </channel>
