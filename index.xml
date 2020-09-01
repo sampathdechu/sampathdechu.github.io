@@ -12,10 +12,10 @@
     
     <item>
       <title></title>
-      <link>https://sampathdechu.github.io/learning/</link>
+      <link>https://sampathdechu.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sampathdechu.github.io/learning/</guid>
+      <guid>https://sampathdechu.github.io/resume/</guid>
       <description></description>
     </item>
     
@@ -45,6 +45,15 @@
       
       <guid>https://sampathdechu.github.io/experience/</guid>
       <description>2014 - Now Research AI Solutions Architect IBM Research Bangalore, KA India   At IBM research in Bangalore, I am responsible for design and build of AI solutions using advanced AI methods and technology stack from opensource or PaaS in the areas of business process automation and optimization. I lead the team of researchers, data scientists and software engineers. My current focus area is to infuse AI into IBM offerings in Automation space.</description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://sampathdechu.github.io/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sampathdechu.github.io/learning/</guid>
+      <description>Machine Learning  (2014) Learning from Data: Introductory machine learning course by Prof. Yaser Abu-Mostafa  Process Mining Deeplearning NLP </description>
     </item>
     
     <item>

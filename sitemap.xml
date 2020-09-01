@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sampathdechu.github.io/learning/</loc>
+    <loc>https://sampathdechu.github.io/resume/</loc>
     <priority>0</priority>
   </url>
   
@@ -21,6 +21,10 @@
   
   <url>
     <loc>https://sampathdechu.github.io/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sampathdechu.github.io/learning/</loc>
   </url>
   
   <url>
